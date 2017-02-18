@@ -5,3 +5,4 @@ source "https://rubygems.org"
 gem 'mechanize'
 gem 'discordrb'
 gem 'dotenv'
+gem 'bitly'
